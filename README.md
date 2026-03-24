@@ -1,8 +1,10 @@
 # HCL_NYC_Jobs_Data_Engineering_Assessment
 Solution file for NYC Jobs - Data Engineering Coding Assessment 
-Dataset: NYC Job Postings (nyc-jobs.csv) — Current job postings hosted by the City of New York
-Tool: PySpark on Databricks
-Author: RAKSHITHA BR
+
+**Dataset:** NYC Job Postings (nyc-jobs.csv) — Current job postings hosted by the City of New York  
+**Tool:** PySpark on Databricks  
+**Author:** RAKSHITHA BR
+
 
 ## Table of Contents
 1. **Setup & Data Loading** — Import libraries and load the dataset
